@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600">
+<rect width="100%" height="100%" fill="#fff"/>
+<circle cx="300" cy="300" r="260" fill="#0b3550"/>
+<path d="M320 170 C300 130 260 140 240 180 C260 160 300 150 320 170 Z" fill="#f3ead8"/>
+<text x="50%" y="360" font-family="Georgia, serif" font-size="48" fill="#f3ead8" text-anchor="middle">OAF&amp;BEV</text>
+<text x="50%" y="420" font-family="Arial" font-size="20" fill="#f3ead8" text-anchor="middle">Organic African Food &amp; Beverages</text>
+</svg>
